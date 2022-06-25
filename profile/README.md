@@ -1,5 +1,6 @@
 <p align="center"><img src="https://github.com/CrossTech-cl/.github/blob/main/assets/logo.png" width="500" height="500"  /></p>
 
+[Página web : 🔗](https://crosstech.netlify.app/)
 ## 👨‍💻 &nbsp;Sobre nosotros :
 
 Somos una organización centrada en el desarrollo de proyectos frelancer en torno el desarrollo de software.
