@@ -6,15 +6,16 @@ Somos una organización centrada en el desarrollo de proyectos frelancer en torn
 
 ## 🏃 &nbsp;Proyectos activos :
 
-- 🖌️ Fundación Integrandonos : Landing page
-- 🖌️ GambaPay : Landing page
+- 🖌️ Fundación Integrandonos : [Landing page](https://github.com/CrossTech-cl/IntegrandonosLandingPage)
+- 🖌️ GambaPay : [Landing page](https://github.com/CrossTech-cl/GambaPay)
 - 🖌️ Retarget : UX Desing
-- 💻 Retarget : Scrapper + API
+- 💻 Retarget : [Scrapper](https://github.com/CrossTech-cl/AutoScrapper)
+- 💻 Retarget : [API](https://github.com/CrossTech-cl/CarDataScrapperAPI)
 
 ## 😮‍💨 Proyectos terminados
 
-- 🖌️ GPSE : Landing page
-- 🖌️ GPSE: Pre página
+- 🖌️ GPSE : [Landing page](https://github.com/CrossTech-cl/GpseLandingPage)
+- 🖌️ GPSE: [Pre página](https://github.com/CrossTech-cl/GpsePrePagina)
 
 ## ⌚ Lista de espera
 
