@@ -9,9 +9,9 @@ Somos una organización centrada en el desarrollo de proyectos frelancer en torn
 
 - 🖌️ Fundación Integrandonos : [Landing page](https://github.com/CrossTech-cl/IntegrandonosLandingPage)
 - 🖌️ GambaPay : [Landing page](https://github.com/CrossTech-cl/GambaPay)
-- 🖌️ Retarget : UX Desing
-- 💻 Retarget : [Scrapper](https://github.com/CrossTech-cl/AutoScrapper)
-- 💻 Retarget : [API](https://github.com/CrossTech-cl/CarDataScrapperAPI)
+- 🖌️ Retarget/RocketCar : UX Desing
+- 💻 RocketCar : [Scrapper](https://github.com/CrossTech-cl/AutoScrapper)
+- 💻 RocketCar : [API](https://github.com/CrossTech-cl/CarDataScrapperAPI)
 
 ## 😮‍💨 Proyectos terminados
 
