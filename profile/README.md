@@ -11,7 +11,7 @@ Somos una organización centrada en el desarrollo de proyectos frelancer en torn
 - 🖌️ GambaPay : [Landing page](https://github.com/CrossTech-cl/GambaPay)
 - 🖌️ Retarget/RocketCar : UX Desing
 - 💻 RocketCar : [Scrapper](https://github.com/CrossTech-cl/AutoScrapper)
-- 💻 RocketCar : [API](https://github.com/CrossTech-cl/CarDataScrapperAPI)
+- 💻 RocketCar : [API](https://github.com/CrossTech-cl/RocketCarAPI)
 
 ## 😮‍💨 Proyectos terminados
 
